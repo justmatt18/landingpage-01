@@ -11,7 +11,7 @@ A simple static landing page with added content using flexbox.
 * [SVG Waves](getwaves.io)
 
 ### Demo 
-* Working demo [here]()
+* Working demo [here](https://smlburgers.netlify.app/)
 
 
 ### Feature
